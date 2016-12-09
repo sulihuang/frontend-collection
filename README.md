@@ -13,4 +13,4 @@
 ### Top 10 November 
 - 🌹 [「Top 10：NodeJS in November」](https://github.com/sulihuang/frontend-collection/issues/4)
 - 🏀 [「Top 10：NodeJS in November」](https://github.com/sulihuang/frontend-collection/issues/6)
-- ❤️ [「Top 10：NodeJS in November」](https://github.com/sulihuang/frontend-collection/issues/7)
+- ❤️ [「Top 10：JavaScript in November」](https://github.com/sulihuang/frontend-collection/issues/7)
