@@ -1,6 +1,7 @@
 # 优秀的前端资源
 
 ## 15 Interesting JavaScript and CSS Libraries系列
+- 🐳 [「December 2016」](https://github.com/sulihuang/frontend-collection/issues/8)
 - ❤️[「November 2016」](https://github.com/sulihuang/frontend-collection/issues/1)
 - 🐚[「October 2016」](https://github.com/sulihuang/frontend-collection/issues/2)
 - 💙[「September 2016」](https://github.com/sulihuang/frontend-collection/issues/5)
